@@ -1,0 +1,2127 @@
+{
+	"folder_history":
+	[
+		"/media/trogdor/inst_3/apps/unm_care",
+		"/media/trogdor/inst_3/apps/ops_wiki",
+		"/media/trogdor/main/apps/brian/cache",
+		"/home/bbosh/html5_3d",
+		"/media/trogdor/inst_3/apps/mortality_review_2014",
+		"/home/bbosh/scratch",
+		"/media/trogdor/main/apps/brian/orworklist",
+		"/media/trogdor/main/apps/mpages-old/stats",
+		"/media/rodent/www_shared/intranet7/apps/ops_wiki",
+		"/media/trogdor/main/apps/brian",
+		"/media/rodent/www_shared/intranet7/apps/mortality_review",
+		"/media/trogdor/main/apps/brian/lets-cache",
+		"/media/trogdor/main/apps/brian/vte-status",
+		"/home/bbosh/Downloads/app",
+		"/media/trogdor/inst_3/apps/mortality_review",
+		"/media/rodent/www_shared/intranet7/apps/hours",
+		"/media/rodent/www_shared/intranet7/apps/time_sheet",
+		"/media/trogdor/myna_dev/script_compiler",
+		"/media/trogdor/main/apps/brian/univnm",
+		"/media/trogdor/inst_1/apps/ops_wiki",
+		"/home/bbosh/opswiki-node",
+		"/media/trogdor/main/apps/brian/diabetes",
+		"/home/bbosh/unmhopswiki",
+		"/media/trogdor/main/apps/brian/oldcache",
+		"/media/trogdor/main/apps/mpages/dashboard",
+		"/media/trogdor/main/apps/mpages",
+		"/media/trogdor/main/apps/tom/nbicu",
+		"/home/bbosh/Front-end-Developer-Interview-Questions",
+		"/media/trogdor/inst_3/apps/ops_wiki.beta",
+		"/media/trogdor/myna_dev/cerner_proxy",
+		"/media/trogdor/main/apps/brian/vtestatus2.ember",
+		"/media/trogdor/main/apps/brian/vte-status.ember",
+		"/home/bbosh/Desktop/vte-status.ember",
+		"/home/bbosh/Downloads/C#",
+		"/home/bbosh/Desktop/starter-kit-1.0.0",
+		"/media/trogdor/main/apps/brian/univnm/st",
+		"/media/trogdor/shared/components/session",
+		"/media/trogdor/inst_1/apps/doc_management",
+		"/media/trogdor/myna_dev/WEB-INF/myna/auth_types",
+		"/media/trogdor/inst_3/apps/time_cf",
+		"/media/trogdor/inst_3/apps/brian/time/app",
+		"/media/trogdor/myna_dev/ops_wiki",
+		"/home/bbosh/Desktop/cfmagic",
+		"/media/trogdor/main/apps/brian/pacs-url",
+		"/media/trogdor/main/apps/brian/deity",
+		"/media/rodent/myna_main/myna/db_manager",
+		"/media/rodent/myna_main/myna/auth",
+		"/media/trogdor/myna_dev/casa2_pdf",
+		"/media/trogdor/main/apps/mpages-old/casa2",
+		"/media/rodent/www_shared/mpages/casa2_pdf",
+		"/media/trogdor/main/apps/brian/insulin-report",
+		"/media/trogdor/main/apps/mpages/univnm",
+		"/media/trogdor/main/apps/mpages/casamobile",
+		"/media/trogdor/main/apps/brian/menu",
+		"/media/trogdor/main/apps/mpages/pacs_url",
+		"/media/trogdor/main/apps/mpages/diabetes",
+		"/media/trogdor/main/apps/tom/cache",
+		"/media/trogdor/main/apps/brian/megladon",
+		"/media/trogdor/main/apps/mpages/brian",
+		"/media/trogdor/main/apps/brian/or-worklist",
+		"/media/trogdor/main/apps/brian/megladontest",
+		"/media/trogdor/main/apps/mpages/cache",
+		"/media/trogdor/main/apps/mpages/letscache",
+		"/run/user/bbosh/gvfs/smb-share:server=trogdor,share=www/main/apps/mpages/letscache",
+		"/run/user/bbosh/gvfs/smb-share:server=trogdor,share=www/main/apps/mpages/query_builder",
+		"/home/bbosh/.config/sublime-text-2/Packages/Theme - Default"
+	],
+	"last_window_id": 357,
+	"settings":
+	{
+		"new_window_height": 878.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Morta",
+						"MortalityReport"
+					],
+					[
+						"request",
+						"requestAnimFrame"
+					],
+					[
+						"comm",
+						"CommunicationProblem"
+					],
+					[
+						"t",
+						"type=\"application/msexcel\"	type"
+					],
+					[
+						"a",
+						"action=\"write\"	action"
+					],
+					[
+						"rever",
+						"reversiblePrimes"
+					],
+					[
+						"var",
+						"varieties"
+					],
+					[
+						"mul",
+						"multiplicand"
+					],
+					[
+						"magn",
+						"magnitude"
+					],
+					[
+						"magni",
+						"magnitudes"
+					],
+					[
+						"restraint",
+						"restraint_rs"
+					],
+					[
+						"tria",
+						"trianglegeneratorcache"
+					],
+					[
+						"factor",
+						"factors"
+					],
+					[
+						"prime",
+						"prime_factors"
+					],
+					[
+						"isMul",
+						"isMultipleOf3or5"
+					],
+					[
+						"index",
+						"indexOfSymbol"
+					],
+					[
+						"convertB",
+						"convertBulletsCollector"
+					],
+					[
+						"entryI",
+						"entryIxEnd"
+					],
+					[
+						"findOne",
+						"findOneByAlias"
+					],
+					[
+						"ldap",
+						"ldap_id"
+					],
+					[
+						"parent",
+						"parentrevisionid"
+					],
+					[
+						"head",
+						"headlineImAt"
+					],
+					[
+						"primary_serv",
+						"primary_service"
+					],
+					[
+						"to_",
+						"to_slug"
+					],
+					[
+						"pare",
+						"parent_revision"
+					],
+					[
+						"sch_ev",
+						"scheduled_event_ids"
+					],
+					[
+						"glycem",
+						"glycemic_evaluation_class"
+					],
+					[
+						"istatlactate",
+						"istatlactatedttm"
+					],
+					[
+						"creactivepr",
+						"creactiveproteindttm"
+					],
+					[
+						"field_",
+						"field_name_title"
+					],
+					[
+						"code_disp",
+						"code_display_key"
+					],
+					[
+						"code_d",
+						"code_display_key"
+					],
+					[
+						"javas",
+						"javascript"
+					],
+					[
+						"signoff",
+						"signoffpatient"
+					],
+					[
+						"orig",
+						"original_schedule_dt_tm"
+					],
+					[
+						"loade",
+						"loaderrors"
+					],
+					[
+						"load",
+						"loaderrorto"
+					],
+					[
+						"Config",
+						"Configuration"
+					],
+					[
+						"filter_o",
+						"filter_priorauths"
+					],
+					[
+						"filter_c",
+						"filter_casetypes"
+					],
+					[
+						"menuit",
+						"menuitem"
+					],
+					[
+						"serv",
+						"service_locations"
+					],
+					[
+						"report_id",
+						"report_ids"
+					],
+					[
+						"servic",
+						"service_id"
+					],
+					[
+						"cust_",
+						"cust_reports_columns"
+					],
+					[
+						"cust_re",
+						"cust_reports_views"
+					],
+					[
+						"edit",
+						"editor"
+					],
+					[
+						"viewrepo",
+						"viewreportbinder"
+					],
+					[
+						"menuI",
+						"menuItemHeight"
+					],
+					[
+						"menui",
+						"menuitem"
+					],
+					[
+						"menu",
+						"menuItemConfig"
+					],
+					[
+						"clinic",
+						"filter_clinics"
+					],
+					[
+						"set",
+						"settimewindow"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"setc",
+						"setclinics"
+					],
+					[
+						"supagrid",
+						"supagrid"
+					],
+					[
+						"supa",
+						"supagrid"
+					],
+					[
+						"data",
+						"dataIndex"
+					],
+					[
+						"prior",
+						"PriorAuth"
+					],
+					[
+						"listvi",
+						"listviews_click"
+					],
+					[
+						"login",
+						"loginForm"
+					]
+				]
+			},
+			"build_system": "Packages/JSHint/JSHint.sublime-build",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"print",
+						"Print to HTML: print as HTML via browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"format",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"web in",
+						"Web Inspector"
+					],
+					[
+						"we",
+						"Web Inspector"
+					],
+					[
+						"web insp",
+						"Web Inspector"
+					],
+					[
+						"inspector",
+						"Web Inspector"
+					],
+					[
+						"web ins",
+						"Web Inspector"
+					],
+					[
+						"insp",
+						"Web Inspector"
+					],
+					[
+						"inspec",
+						"Web Inspector"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"git ",
+						"Git: Graph All"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"git comm",
+						"Git: Quick Commit"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"git change",
+						"Git: Change Branch"
+					],
+					[
+						"git bran",
+						"Git: Change Branch"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"git push",
+						"Git: Push Current Branch"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git stau",
+						"Git: Status"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git s",
+						"Git: Status"
+					],
+					[
+						"json",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"pretty",
+						"HTMLPrettify: Prettify"
+					],
+					[
+						"jsl",
+						"JSHint: Linter"
+					],
+					[
+						"js",
+						"JSHint"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"hint",
+						"JSHint"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/trogdor/inst_3/apps/ops_wiki/wheels/model/sql.cfm",
+				"/home/bbosh/.config/sublime-text-2/Packages/User/SublimeLinter.sublime-settings",
+				"/home/bbosh/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/media/trogdor/main/apps/brian/orworklist/app/controller/ActionWindow.js",
+				"/media/rodent/www_shared/intranet7/apps/ops_wiki/config/routes.cfm",
+				"/media/trogdor/main/apps/mpages-old/brian/index.html",
+				"/media/trogdor/main/apps/brian/univnm/controller_shared.js",
+				"/home/bbosh/Downloads/index (2).cfm",
+				"/home/bbosh/Downloads/mortality_reports (6).csv",
+				"/media/trogdor/inst_3/apps/mortality_review/javascripts/jquery-1.7.2.min.js",
+				"/media/trogdor/inst_3/apps/mortality_review/wheels/model/adapters/Base.cfc",
+				"/media/trogdor/inst_3/apps/mortality_review/IsapiRewrite4.ini",
+				"/media/trogdor/inst_3/apps/mortality_review/wheels/CHANGELOG",
+				"/home/bbosh/opswiki-node/dev",
+				"/media/trogdor/main/apps/brian/env.js",
+				"/home/bbosh/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
+				"/home/bbosh/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/InsAndOut.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/InsAndOuts.js",
+				"/media/trogdor/main/apps/brian/cache/archapp/app.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/Allergies.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/Restraints.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/UrinaryCatheterDay.js",
+				"/media/trogdor/inst_1/apps/ops_wiki/javascripts/parsemw.js",
+				"/media/trogdor/shared/components/app_mail.cfc",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/AdultID.js",
+				"/media/trogdor/main/apps/brian/univnm/ext/QueryStore.js",
+				"/home/bbosh/google wiki.txt",
+				"/media/trogdor/inst_3/apps/ops_wiki/models/Namespace.cfc",
+				"/media/trogdor/inst_3/apps/ops_wiki/MiscFunctions.cfc",
+				"/media/trogdor/inst_3/apps/ops_wiki/WikiOld.cfc",
+				"/media/trogdor/inst_3/apps/ops_wiki/controllers/Revisions.cfc",
+				"/media/trogdor/inst_3/apps/mortality_review/javascripts/jquery-1.6.min.js",
+				"/media/trogdor/inst_3/apps/ops_wiki/controllers/Page.cfc",
+				"/media/trogdor/myna_dev/ops_wiki/framework/helpers/Html.sjs",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/PediatricsID.js",
+				"/media/trogdor/main/apps/brian/cache/app/model/Patient.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/dossier/PediatricsID.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/HealthPlan.js",
+				"/media/trogdor/main/apps/brian/cache/toolbar.html",
+				"/media/trogdor/main/apps/brian/cache/debug.html",
+				"/home/bbosh/unmhopswiki/config/environments/development.rb",
+				"/home/bbosh/unmhopswiki/log/development.log",
+				"/home/bbosh/unmhopswiki/Gemfile",
+				"/home/bbosh/unmhopswiki/db/migrate/20130826153540_add_rpnname_to_namespace.rb",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/dossier/Gynecology.js",
+				"/media/trogdor/main/apps/brian/cache/app/controller/Providers.js",
+				"/media/trogdor/main/apps/brian/cache/app/model/ProviderList.js",
+				"/home/bbosh/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/IVtoPO.js",
+				"/media/trogdor/main/apps/brian/univnm/ccl/shared_echo_ids.prg",
+				"/media/trogdor/main/apps/brian/univnm/ccl/ccl_direct.prg",
+				"/media/trogdor/main/apps/brian/univnm/ccl/univnm_row_manager.prg",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/AntiCoag.js",
+				"/media/trogdor/main/apps/brian/cache/compiled.js",
+				"/media/trogdor/main/apps/brian/univnm/jslib.js",
+				"/media/trogdor/main/apps/brian/cache/app/ux/Tooltip.js",
+				"/media/trogdor/main/apps/mpages-old/dev/index.html",
+				"/media/trogdor/main/apps/brian/cache/test.html",
+				"/media/trogdor/main/apps/brian/cache/app.js",
+				"/media/trogdor/main/apps/brian/cache/index.html",
+				"/media/trogdor/main/apps/brian/cache/app/store/Patients.js",
+				"/media/trogdor/main/apps/brian/univnm/sql/univnm.pck",
+				"/media/trogdor/main/apps/brian/univnm/sql/univnm_code.pck",
+				"/home/bbosh/Desktop/AntiCoag.sql",
+				"/media/trogdor/main/apps/brian/univnm/ccl/uh_mp_runsql.prg",
+				"/media/trogdor/main/apps/brian/orworklist/debug.html",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/env.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/store/Patients.js",
+				"/media/trogdor/main/apps/brian/diabetes/app/view/TenThousandFootChart.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/CrpLactate.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/CoagTable.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/Coag.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/CBCTable.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/CBC.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/BMPTable.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/BMP.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Urology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Surgery.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Rheumatology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Rehabilitation.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Radiology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Psychiatry.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Pharmacy.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Pediatrics.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Pathology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Orthopedics.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Obstetrics.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Nursing.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Neurosurgery.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Neurology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Nephrology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/NBICU.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Gynecology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/General.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/FamilyAndCommunityMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/EmergencyMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Dermatology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/DentalMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/CriticalCareMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Anesthesiology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/InternalMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/MyViewport.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/provider/AllContacts.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/Admit.js",
+				"/media/trogdor/main/apps/brian/cache/theme.css",
+				"/media/trogdor/inst_3/apps/mortality_review/views/mortalityreports/index.cfm",
+				"/media/trogdor/main/apps/brian/cache/app/view/DashboardStatus.js",
+				"/media/rodent/www_shared/mpages/casa2_pdf/printpdf.sjs",
+				"/media/trogdor/main/apps/brian/lets-cache/app/store/Patients.js",
+				"/home/bbosh/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/media/trogdor/main/apps/brian/diabetes/compiled.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/controller/Orders.js",
+				"/media/trogdor/main/apps/brian/lets-cache/app/model/Patient.js",
+				"/media/trogdor/main/apps/brian/lets-cache/debug.html",
+				"/media/trogdor/main/apps/brian/orworklist/app/store/Clinics.js",
+				"/media/trogdor/main/apps/brian/orworklist/app.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/view/Config.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/view/PatientGrid.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/view/PatientFilter.js",
+				"/media/trogdor/main/apps/brian/megladon/app/store/Reports.js",
+				"/media/trogdor/main/apps/brian/megladon/app/store/Views.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/store/query.sql",
+				"/media/trogdor/main/apps/brian/univnm/ext/FilterMenu.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/controller/NewCases.js",
+				"/media/trogdor/main/apps/brian/megladon/debug.html",
+				"/media/trogdor/main/apps/brian/megladon/app/view/CoreMeasures.js",
+				"/media/trogdor/main/apps/mpages/letscache/app/store/ReportsColumns.js\\"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 105.0,
+				"where_history":
+				[
+					"<project>",
+					"/media/trogdor/main/apps/brian/univnm/ccl",
+					"<project>",
+					"/media/trogdor/main/apps/brian/cache",
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dictionaries",
+					"dictionary",
+					"Dictionary",
+					"$selectClause",
+					"noteGrid",
+					"noteGrid\n",
+					"staleNotes\n",
+					"tools",
+					"{\n",
+					"filter",
+					".load",
+					"operative_attending",
+					"alwaysLoad",
+					",",
+					"requestAnimFrame",
+					"eBay",
+					"isPost",
+					"Service Assignment",
+					"nurseinfo",
+					"patient_notes",
+					"paginationLinks",
+					".on",
+					"user-toolbar-options",
+					"deletebox",
+					"prime",
+					"settings",
+					"primary_service",
+					"is_consult",
+					"    ",
+					"  ",
+					"orthopedics_surgery_date",
+					"{",
+					"!~",
+					"    ",
+					"select",
+					"in",
+					"F8",
+					"IN1_73",
+					"TOT_IN1",
+					"STR_TOT_IN1",
+					"pediatricsid",
+					"PediatricsID",
+					"^([0-9])",
+					"\\n",
+					" ",
+					"abort",
+					"do_m",
+					"(\\s+)writeDump",
+					"submit",
+					"print",
+					"cppd.id",
+					"validOrderFound",
+					"pediatrics",
+					"knee",
+					"application.calldblog",
+					"calldblog",
+					"cfinclude",
+					"session.dn",
+					"errormessagesfor",
+					"name=\"errormessagesfor\"",
+					"namespacesicanhazaccess",
+					"redir",
+					"related",
+					"get",
+					"primary_service_field",
+					"\n	",
+					"post",
+					"Post",
+					"post",
+					"book",
+					"sAMAccountName",
+					"Cactus.view.patient.list.NBICU",
+					"Pediatrics",
+					"cust_",
+					"univnm",
+					"user_id[\\s]*:",
+					"user_id[\\s]*=",
+					"user_id[\\w]*=",
+					"hasAcce",
+					" [\"",
+					"red",
+					"nusring",
+					"Nusring",
+					"gynecology",
+					"Gynecology",
+					"MedicalServices",
+					"relateToView",
+					"F/U",
+					"title",
+					"/\\*([^*]|[\\r\\n]|(\\*+([^*/]|[\\r\\n])))*\\*+/",
+					"--(.*)$",
+					"\\n\\s*\\n",
+					"\\n\\n",
+					"left join ",
+					"left join (\\w+)",
+					"debugger.",
+					";\n",
+					"univnm.u",
+					"  ",
+					"\\s+",
+					"(\\w+) = (.*),$",
+					",(\\s+)(\\w+)\\s+=",
+					",",
+					"\\n",
+					"^\\s+;.*$",
+					"NURSEUNIT",
+					"flex",
+					"data.contacts_raw",
+					"Cactus.view.patient.report.Pediatric",
+					"going",
+					"DATE_FORMAT",
+					"data",
+					"code_display_key(200, o.CATALOG_CD) ",
+					"delete",
+					"outerHeight()",
+					"outerWidth()",
+					"saveRow",
+					"C",
+					"closedossier",
+					"print",
+					"debugger;",
+					"debugger",
+					"CasaMobile",
+					"pedia",
+					".set(",
+					"Contact",
+					"Contacts",
+					"supagrid"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\n",
+					"\\t",
+					"~",
+					"\\t",
+					"adultid",
+					"AdultID",
+					"'$1",
+					"',\\n",
+					", ",
+					"$1//writeDump",
+					"adult",
+					"//application.calldblog",
+					"application.calldblog",
+					"namespace",
+					"Namespace",
+					"namespace",
+					"nursing",
+					"Nursing",
+					"nusring",
+					"Nusring",
+					"",
+					"\\n",
+					"",
+					" ",
+					"\\s",
+					"$2 as $1,",
+					",\\n$2 =",
+					",\\n",
+					" ",
+					"",
+					"outerHeight(true)",
+					"outerWidth(true)",
+					"Pobblebonk",
+					"Note",
+					"Notes",
+					"configscreen",
+					"+",
+					"+\n			\"	reports.id, \",\n			\"	reports.title, \",\n			\"	reports.alias, \",\n			\"	reports.media \",\n			\"FROM \",\n			\"	cust_reports{tableExtension} reports \",\n			\"	INNER JOIN cust_reports_views{tableExtension} reports_views  on	( \",\n			\"		reports_views.report_id = reports.id \",\n			\"	) \",\n			\"	INNER JOIN cust_views{tableExtension} vuuus  on	( \",\n			\"		vuuus.id = reports_views.view_id \",\n			\"	) \",\n			\"	INNER JOIN cust_services{tableExtension} services  on	( \",\n			\"		services.view_id = vuuus.id \",\n			\"	) \",\n			\"WHERE \",\n			\"	services.id = {service_id} \"",
+					"			\"SELECT \",\n			\"	reports.id, \",\n			\"	reports.title, \",\n			\"	reports.alias, \",\n			\"	reports.media \",\n			\"FROM \",\n			\"	cust_reports{tableExtension} reports \",\n			\"	INNER JOIN cust_reports_views{tableExtension} reports_views  on	( \",\n			\"		reports_views.report_id = reports.id \",\n			\"	) \",\n			\"	INNER JOIN cust_views{tableExtension} vuuus  on	( \",\n			\"		vuuus.id = reports_views.view_id \",\n			\"	) \",\n			\"	INNER JOIN cust_services{tableExtension} services  on	( \",\n			\"		services.view_id = vuuus.id \",\n			\"	) \",\n			\"WHERE \",\n			\"	services.id = {service_id} \"",
+					" ",
+					"\\tservice_id",
+					"\\{\\n\\tr"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"dossi",
+						"app/view/patient/dossier/DossierHistory.js"
+					],
+					[
+						"patients",
+						"app/store/Patients.js"
+					],
+					[
+						"ins",
+						"app/view/elements/columns/InsAndOuts.js"
+					],
+					[
+						"ped",
+						"app/view/patient/list/Pediatrics.js"
+					],
+					[
+						"casag",
+						"app/ux/CASAGrid.js"
+					],
+					[
+						"patient",
+						"app/model/Patient.js"
+					],
+					[
+						"mw",
+						"javascripts/parsemw.js"
+					],
+					[
+						"page",
+						"models/Page.cfc"
+					],
+					[
+						"print.js",
+						"/media/trogdor/main/apps/brian/cache/app/controller/Print.js"
+					],
+					[
+						"wiki.",
+						"Wiki.cfc"
+					],
+					[
+						"_t",
+						"views/pages/_tabs.cfm"
+					],
+					[
+						"",
+						"/media/trogdor/inst_3/apps/ops_wiki/views/attachments/index.cfm"
+					],
+					[
+						"defa",
+						"stylesheets/default.css"
+					],
+					[
+						"def",
+						"stylesheets/default.css"
+					],
+					[
+						"wiki",
+						"Wiki.cfc"
+					],
+					[
+						"diff.cfc",
+						"Diff.cfc"
+					],
+					[
+						"index.cfm",
+						"views/revisions/index.cfm"
+					],
+					[
+						"ddiff.c",
+						"/media/trogdor/inst_3/apps/ops_wiki/Diff.cfc"
+					],
+					[
+						"pages",
+						"controllers/Pages.cfc"
+					],
+					[
+						"orth",
+						"app/view/patient/list/Orthopedics.js"
+					],
+					[
+						"ort",
+						"app/view/patient/list/Orthopedics.js"
+					],
+					[
+						"pediatricsid",
+						"/media/trogdor/main/apps/brian/cache/app/view/patient/report/PediatricsID.js"
+					],
+					[
+						"casagr",
+						"app/ux/CASAGrid.js"
+					],
+					[
+						"proced",
+						"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/ProceduresNotes.js"
+					],
+					[
+						"abx",
+						"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/ABX.js"
+					],
+					[
+						"cult",
+						"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/Cultures.js"
+					],
+					[
+						"cultures",
+						"Ext.define('Cactus.view.elements.columns.Cultures'"
+					],
+					[
+						"dev",
+						"log/development.log"
+					],
+					[
+						"d",
+						"log/development.log"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 230.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1592.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Morta",
+						"MortalityReport"
+					],
+					[
+						"request",
+						"requestAnimFrame"
+					],
+					[
+						"comm",
+						"CommunicationProblem"
+					],
+					[
+						"t",
+						"type=\"application/msexcel\"	type"
+					],
+					[
+						"a",
+						"action=\"write\"	action"
+					],
+					[
+						"rever",
+						"reversiblePrimes"
+					],
+					[
+						"var",
+						"varieties"
+					],
+					[
+						"mul",
+						"multiplicand"
+					],
+					[
+						"magn",
+						"magnitude"
+					],
+					[
+						"magni",
+						"magnitudes"
+					],
+					[
+						"restraint",
+						"restraint_rs"
+					],
+					[
+						"tria",
+						"trianglegeneratorcache"
+					],
+					[
+						"factor",
+						"factors"
+					],
+					[
+						"prime",
+						"prime_factors"
+					],
+					[
+						"isMul",
+						"isMultipleOf3or5"
+					],
+					[
+						"index",
+						"indexOfSymbol"
+					],
+					[
+						"convertB",
+						"convertBulletsCollector"
+					],
+					[
+						"entryI",
+						"entryIxEnd"
+					],
+					[
+						"findOne",
+						"findOneByAlias"
+					],
+					[
+						"ldap",
+						"ldap_id"
+					],
+					[
+						"parent",
+						"parentrevisionid"
+					],
+					[
+						"head",
+						"headlineImAt"
+					],
+					[
+						"primary_serv",
+						"primary_service"
+					],
+					[
+						"to_",
+						"to_slug"
+					],
+					[
+						"pare",
+						"parent_revision"
+					],
+					[
+						"sch_ev",
+						"scheduled_event_ids"
+					],
+					[
+						"glycem",
+						"glycemic_evaluation_class"
+					],
+					[
+						"istatlactate",
+						"istatlactatedttm"
+					],
+					[
+						"creactivepr",
+						"creactiveproteindttm"
+					],
+					[
+						"field_",
+						"field_name_title"
+					],
+					[
+						"code_disp",
+						"code_display_key"
+					],
+					[
+						"code_d",
+						"code_display_key"
+					],
+					[
+						"javas",
+						"javascript"
+					],
+					[
+						"signoff",
+						"signoffpatient"
+					],
+					[
+						"orig",
+						"original_schedule_dt_tm"
+					],
+					[
+						"loade",
+						"loaderrors"
+					],
+					[
+						"load",
+						"loaderrorto"
+					],
+					[
+						"Config",
+						"Configuration"
+					],
+					[
+						"filter_o",
+						"filter_priorauths"
+					],
+					[
+						"filter_c",
+						"filter_casetypes"
+					],
+					[
+						"menuit",
+						"menuitem"
+					],
+					[
+						"serv",
+						"service_locations"
+					],
+					[
+						"report_id",
+						"report_ids"
+					],
+					[
+						"servic",
+						"service_id"
+					],
+					[
+						"cust_",
+						"cust_reports_columns"
+					],
+					[
+						"cust_re",
+						"cust_reports_views"
+					],
+					[
+						"edit",
+						"editor"
+					],
+					[
+						"viewrepo",
+						"viewreportbinder"
+					],
+					[
+						"menuI",
+						"menuItemHeight"
+					],
+					[
+						"menui",
+						"menuitem"
+					],
+					[
+						"menu",
+						"menuItemConfig"
+					],
+					[
+						"clinic",
+						"filter_clinics"
+					],
+					[
+						"set",
+						"settimewindow"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"setc",
+						"setclinics"
+					],
+					[
+						"supagrid",
+						"supagrid"
+					],
+					[
+						"supa",
+						"supagrid"
+					],
+					[
+						"data",
+						"dataIndex"
+					],
+					[
+						"prior",
+						"PriorAuth"
+					],
+					[
+						"listvi",
+						"listviews_click"
+					],
+					[
+						"login",
+						"loginForm"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bbosh/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 355,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/JSHint/JSHint.sublime-build",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"print",
+						"Print to HTML: print as HTML via browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"format",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"web in",
+						"Web Inspector"
+					],
+					[
+						"we",
+						"Web Inspector"
+					],
+					[
+						"web insp",
+						"Web Inspector"
+					],
+					[
+						"inspector",
+						"Web Inspector"
+					],
+					[
+						"web ins",
+						"Web Inspector"
+					],
+					[
+						"insp",
+						"Web Inspector"
+					],
+					[
+						"inspec",
+						"Web Inspector"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"git ",
+						"Git: Graph All"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"git comm",
+						"Git: Quick Commit"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"git change",
+						"Git: Change Branch"
+					],
+					[
+						"git bran",
+						"Git: Change Branch"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"git push",
+						"Git: Push Current Branch"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git stau",
+						"Git: Status"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git s",
+						"Git: Status"
+					],
+					[
+						"json",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"pretty",
+						"HTMLPrettify: Prettify"
+					],
+					[
+						"jsl",
+						"JSHint: Linter"
+					],
+					[
+						"js",
+						"JSHint"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"hint",
+						"JSHint"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/trogdor/inst_3/apps/ops_wiki/wheels/model/sql.cfm",
+				"/home/bbosh/.config/sublime-text-2/Packages/User/SublimeLinter.sublime-settings",
+				"/home/bbosh/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/media/trogdor/main/apps/brian/orworklist/app/controller/ActionWindow.js",
+				"/media/rodent/www_shared/intranet7/apps/ops_wiki/config/routes.cfm",
+				"/media/trogdor/main/apps/mpages-old/brian/index.html",
+				"/media/trogdor/main/apps/brian/univnm/controller_shared.js",
+				"/home/bbosh/Downloads/index (2).cfm",
+				"/home/bbosh/Downloads/mortality_reports (6).csv",
+				"/media/trogdor/inst_3/apps/mortality_review/javascripts/jquery-1.7.2.min.js",
+				"/media/trogdor/inst_3/apps/mortality_review/wheels/model/adapters/Base.cfc",
+				"/media/trogdor/inst_3/apps/mortality_review/IsapiRewrite4.ini",
+				"/media/trogdor/inst_3/apps/mortality_review/wheels/CHANGELOG",
+				"/home/bbosh/opswiki-node/dev",
+				"/media/trogdor/main/apps/brian/env.js",
+				"/home/bbosh/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
+				"/home/bbosh/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/InsAndOut.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/InsAndOuts.js",
+				"/media/trogdor/main/apps/brian/cache/archapp/app.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/Allergies.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/Restraints.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/UrinaryCatheterDay.js",
+				"/media/trogdor/inst_1/apps/ops_wiki/javascripts/parsemw.js",
+				"/media/trogdor/shared/components/app_mail.cfc",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/AdultID.js",
+				"/media/trogdor/main/apps/brian/univnm/ext/QueryStore.js",
+				"/home/bbosh/google wiki.txt",
+				"/media/trogdor/inst_3/apps/ops_wiki/models/Namespace.cfc",
+				"/media/trogdor/inst_3/apps/ops_wiki/MiscFunctions.cfc",
+				"/media/trogdor/inst_3/apps/ops_wiki/WikiOld.cfc",
+				"/media/trogdor/inst_3/apps/ops_wiki/controllers/Revisions.cfc",
+				"/media/trogdor/inst_3/apps/mortality_review/javascripts/jquery-1.6.min.js",
+				"/media/trogdor/inst_3/apps/ops_wiki/controllers/Page.cfc",
+				"/media/trogdor/myna_dev/ops_wiki/framework/helpers/Html.sjs",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/PediatricsID.js",
+				"/media/trogdor/main/apps/brian/cache/app/model/Patient.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/dossier/PediatricsID.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/HealthPlan.js",
+				"/media/trogdor/main/apps/brian/cache/toolbar.html",
+				"/media/trogdor/main/apps/brian/cache/debug.html",
+				"/home/bbosh/unmhopswiki/config/environments/development.rb",
+				"/home/bbosh/unmhopswiki/log/development.log",
+				"/home/bbosh/unmhopswiki/Gemfile",
+				"/home/bbosh/unmhopswiki/db/migrate/20130826153540_add_rpnname_to_namespace.rb",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/dossier/Gynecology.js",
+				"/media/trogdor/main/apps/brian/cache/app/controller/Providers.js",
+				"/media/trogdor/main/apps/brian/cache/app/model/ProviderList.js",
+				"/home/bbosh/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/IVtoPO.js",
+				"/media/trogdor/main/apps/brian/univnm/ccl/shared_echo_ids.prg",
+				"/media/trogdor/main/apps/brian/univnm/ccl/ccl_direct.prg",
+				"/media/trogdor/main/apps/brian/univnm/ccl/univnm_row_manager.prg",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/AntiCoag.js",
+				"/media/trogdor/main/apps/brian/cache/compiled.js",
+				"/media/trogdor/main/apps/brian/univnm/jslib.js",
+				"/media/trogdor/main/apps/brian/cache/app/ux/Tooltip.js",
+				"/media/trogdor/main/apps/mpages-old/dev/index.html",
+				"/media/trogdor/main/apps/brian/cache/test.html",
+				"/media/trogdor/main/apps/brian/cache/app.js",
+				"/media/trogdor/main/apps/brian/cache/index.html",
+				"/media/trogdor/main/apps/brian/cache/app/store/Patients.js",
+				"/media/trogdor/main/apps/brian/univnm/sql/univnm.pck",
+				"/media/trogdor/main/apps/brian/univnm/sql/univnm_code.pck",
+				"/home/bbosh/Desktop/AntiCoag.sql",
+				"/media/trogdor/main/apps/brian/univnm/ccl/uh_mp_runsql.prg",
+				"/media/trogdor/main/apps/brian/orworklist/debug.html",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/env.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/store/Patients.js",
+				"/media/trogdor/main/apps/brian/diabetes/app/view/TenThousandFootChart.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/CrpLactate.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/CoagTable.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/Coag.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/CBCTable.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/CBC.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/BMPTable.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/BMP.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Urology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Surgery.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Rheumatology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Rehabilitation.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Radiology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Psychiatry.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Pharmacy.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Pediatrics.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Pathology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Orthopedics.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Obstetrics.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Nursing.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Neurosurgery.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Neurology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Nephrology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/NBICU.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Gynecology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/General.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/FamilyAndCommunityMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/EmergencyMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Dermatology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/DentalMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/CriticalCareMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/Anesthesiology.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/list/InternalMedicine.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/MyViewport.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/provider/AllContacts.js",
+				"/media/trogdor/main/apps/brian/cache/app/view/patient/Admit.js",
+				"/media/trogdor/main/apps/brian/cache/theme.css",
+				"/media/trogdor/inst_3/apps/mortality_review/views/mortalityreports/index.cfm",
+				"/media/trogdor/main/apps/brian/cache/app/view/DashboardStatus.js",
+				"/media/rodent/www_shared/mpages/casa2_pdf/printpdf.sjs",
+				"/media/trogdor/main/apps/brian/lets-cache/app/store/Patients.js",
+				"/home/bbosh/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/media/trogdor/main/apps/brian/diabetes/compiled.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/controller/Orders.js",
+				"/media/trogdor/main/apps/brian/lets-cache/app/model/Patient.js",
+				"/media/trogdor/main/apps/brian/lets-cache/debug.html",
+				"/media/trogdor/main/apps/brian/orworklist/app/store/Clinics.js",
+				"/media/trogdor/main/apps/brian/orworklist/app.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/view/Config.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/view/PatientGrid.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/view/PatientFilter.js",
+				"/media/trogdor/main/apps/brian/megladon/app/store/Reports.js",
+				"/media/trogdor/main/apps/brian/megladon/app/store/Views.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/store/query.sql",
+				"/media/trogdor/main/apps/brian/univnm/ext/FilterMenu.js",
+				"/media/trogdor/main/apps/brian/orworklist/app/controller/NewCases.js",
+				"/media/trogdor/main/apps/brian/megladon/debug.html",
+				"/media/trogdor/main/apps/brian/megladon/app/view/CoreMeasures.js",
+				"/media/trogdor/main/apps/mpages/letscache/app/store/ReportsColumns.js\\"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"<project>",
+					"/media/trogdor/main/apps/brian/univnm/ccl",
+					"<project>",
+					"/media/trogdor/main/apps/brian/cache",
+					"<project>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dictionaries",
+					"dictionary",
+					"Dictionary",
+					"$selectClause",
+					"noteGrid",
+					"noteGrid\n",
+					"staleNotes\n",
+					"tools",
+					"{\n",
+					"filter",
+					".load",
+					"operative_attending",
+					"alwaysLoad",
+					",",
+					"requestAnimFrame",
+					"eBay",
+					"isPost",
+					"Service Assignment",
+					"nurseinfo",
+					"patient_notes",
+					"paginationLinks",
+					".on",
+					"user-toolbar-options",
+					"deletebox",
+					"prime",
+					"settings",
+					"primary_service",
+					"is_consult",
+					"    ",
+					"  ",
+					"orthopedics_surgery_date",
+					"{",
+					"!~",
+					"    ",
+					"select",
+					"in",
+					"F8",
+					"IN1_73",
+					"TOT_IN1",
+					"STR_TOT_IN1",
+					"pediatricsid",
+					"PediatricsID",
+					"^([0-9])",
+					"\\n",
+					" ",
+					"abort",
+					"do_m",
+					"(\\s+)writeDump",
+					"submit",
+					"print",
+					"cppd.id",
+					"validOrderFound",
+					"pediatrics",
+					"knee",
+					"application.calldblog",
+					"calldblog",
+					"cfinclude",
+					"session.dn",
+					"errormessagesfor",
+					"name=\"errormessagesfor\"",
+					"namespacesicanhazaccess",
+					"redir",
+					"related",
+					"get",
+					"primary_service_field",
+					"\n	",
+					"post",
+					"Post",
+					"post",
+					"book",
+					"sAMAccountName",
+					"Cactus.view.patient.list.NBICU",
+					"Pediatrics",
+					"cust_",
+					"univnm",
+					"user_id[\\s]*:",
+					"user_id[\\s]*=",
+					"user_id[\\w]*=",
+					"hasAcce",
+					" [\"",
+					"red",
+					"nusring",
+					"Nusring",
+					"gynecology",
+					"Gynecology",
+					"MedicalServices",
+					"relateToView",
+					"F/U",
+					"title",
+					"/\\*([^*]|[\\r\\n]|(\\*+([^*/]|[\\r\\n])))*\\*+/",
+					"--(.*)$",
+					"\\n\\s*\\n",
+					"\\n\\n",
+					"left join ",
+					"left join (\\w+)",
+					"debugger.",
+					";\n",
+					"univnm.u",
+					"  ",
+					"\\s+",
+					"(\\w+) = (.*),$",
+					",(\\s+)(\\w+)\\s+=",
+					",",
+					"\\n",
+					"^\\s+;.*$",
+					"NURSEUNIT",
+					"flex",
+					"data.contacts_raw",
+					"Cactus.view.patient.report.Pediatric",
+					"going",
+					"DATE_FORMAT",
+					"data",
+					"code_display_key(200, o.CATALOG_CD) ",
+					"delete",
+					"outerHeight()",
+					"outerWidth()",
+					"saveRow",
+					"C",
+					"closedossier",
+					"print",
+					"debugger;",
+					"debugger",
+					"CasaMobile",
+					"pedia",
+					".set(",
+					"Contact",
+					"Contacts",
+					"supagrid"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\n",
+					"\\t",
+					"~",
+					"\\t",
+					"adultid",
+					"AdultID",
+					"'$1",
+					"',\\n",
+					", ",
+					"$1//writeDump",
+					"adult",
+					"//application.calldblog",
+					"application.calldblog",
+					"namespace",
+					"Namespace",
+					"namespace",
+					"nursing",
+					"Nursing",
+					"nusring",
+					"Nusring",
+					"",
+					"\\n",
+					"",
+					" ",
+					"\\s",
+					"$2 as $1,",
+					",\\n$2 =",
+					",\\n",
+					" ",
+					"",
+					"outerHeight(true)",
+					"outerWidth(true)",
+					"Pobblebonk",
+					"Note",
+					"Notes",
+					"configscreen",
+					"+",
+					"+\n			\"	reports.id, \",\n			\"	reports.title, \",\n			\"	reports.alias, \",\n			\"	reports.media \",\n			\"FROM \",\n			\"	cust_reports{tableExtension} reports \",\n			\"	INNER JOIN cust_reports_views{tableExtension} reports_views  on	( \",\n			\"		reports_views.report_id = reports.id \",\n			\"	) \",\n			\"	INNER JOIN cust_views{tableExtension} vuuus  on	( \",\n			\"		vuuus.id = reports_views.view_id \",\n			\"	) \",\n			\"	INNER JOIN cust_services{tableExtension} services  on	( \",\n			\"		services.view_id = vuuus.id \",\n			\"	) \",\n			\"WHERE \",\n			\"	services.id = {service_id} \"",
+					"			\"SELECT \",\n			\"	reports.id, \",\n			\"	reports.title, \",\n			\"	reports.alias, \",\n			\"	reports.media \",\n			\"FROM \",\n			\"	cust_reports{tableExtension} reports \",\n			\"	INNER JOIN cust_reports_views{tableExtension} reports_views  on	( \",\n			\"		reports_views.report_id = reports.id \",\n			\"	) \",\n			\"	INNER JOIN cust_views{tableExtension} vuuus  on	( \",\n			\"		vuuus.id = reports_views.view_id \",\n			\"	) \",\n			\"	INNER JOIN cust_services{tableExtension} services  on	( \",\n			\"		services.view_id = vuuus.id \",\n			\"	) \",\n			\"WHERE \",\n			\"	services.id = {service_id} \"",
+					" ",
+					"\\tservice_id",
+					"\\{\\n\\tr"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bbosh/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 355,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										352,
+										352
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"boss": true,
+										"browser": true,
+										"debug": true,
+										"sub": true,
+										"trailing": true,
+										"undef": true,
+										"unused": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_gutter_marks_theme": "bright",
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": true,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"position": "0,0,0,0,0,1920,24,3512,902,3600,1080",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"dossi",
+						"app/view/patient/dossier/DossierHistory.js"
+					],
+					[
+						"patients",
+						"app/store/Patients.js"
+					],
+					[
+						"ins",
+						"app/view/elements/columns/InsAndOuts.js"
+					],
+					[
+						"ped",
+						"app/view/patient/list/Pediatrics.js"
+					],
+					[
+						"casag",
+						"app/ux/CASAGrid.js"
+					],
+					[
+						"patient",
+						"app/model/Patient.js"
+					],
+					[
+						"mw",
+						"javascripts/parsemw.js"
+					],
+					[
+						"page",
+						"models/Page.cfc"
+					],
+					[
+						"print.js",
+						"/media/trogdor/main/apps/brian/cache/app/controller/Print.js"
+					],
+					[
+						"wiki.",
+						"Wiki.cfc"
+					],
+					[
+						"_t",
+						"views/pages/_tabs.cfm"
+					],
+					[
+						"",
+						"/media/trogdor/inst_3/apps/ops_wiki/views/attachments/index.cfm"
+					],
+					[
+						"defa",
+						"stylesheets/default.css"
+					],
+					[
+						"def",
+						"stylesheets/default.css"
+					],
+					[
+						"wiki",
+						"Wiki.cfc"
+					],
+					[
+						"diff.cfc",
+						"Diff.cfc"
+					],
+					[
+						"index.cfm",
+						"views/revisions/index.cfm"
+					],
+					[
+						"ddiff.c",
+						"/media/trogdor/inst_3/apps/ops_wiki/Diff.cfc"
+					],
+					[
+						"pages",
+						"controllers/Pages.cfc"
+					],
+					[
+						"orth",
+						"app/view/patient/list/Orthopedics.js"
+					],
+					[
+						"ort",
+						"app/view/patient/list/Orthopedics.js"
+					],
+					[
+						"pediatricsid",
+						"/media/trogdor/main/apps/brian/cache/app/view/patient/report/PediatricsID.js"
+					],
+					[
+						"casagr",
+						"app/ux/CASAGrid.js"
+					],
+					[
+						"proced",
+						"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/ProceduresNotes.js"
+					],
+					[
+						"abx",
+						"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/ABX.js"
+					],
+					[
+						"cult",
+						"/media/trogdor/main/apps/brian/cache/app/view/elements/columns/Cultures.js"
+					],
+					[
+						"cultures",
+						"Ext.define('Cactus.view.elements.columns.Cultures'"
+					],
+					[
+						"dev",
+						"log/development.log"
+					],
+					[
+						"d",
+						"log/development.log"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 230.0,
+			"status_bar_visible": true,
+			"window_id": 356,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
